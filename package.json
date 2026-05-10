@@ -1,0 +1,10 @@
+{
+  "name": "where2park",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UC Irvine schedule-to-parking planner.",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "start": "python3 -m http.server 5173"
+  }
+}
